@@ -1,5 +1,5 @@
 # Bosch-production-line-performance
-This repo consists of the solution for the competition Bosch Production Line Performance from kaggle (Dataset Link -> https://www.kaggle.com/c/bosch-production-line-performance/data).  
+This repo consists of the solution for the past-competition Bosch Production Line Performance from kaggle (Dataset Link -> https://www.kaggle.com/c/bosch-production-line-performance/data).  
 
 The dataset is one of the largest datasets on kaggle in terms of features and hence it is processed and used in form of chunks
 
